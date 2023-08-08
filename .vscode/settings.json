@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "ticker.h": "c",
+        "store.h": "c"
+    }
+}
